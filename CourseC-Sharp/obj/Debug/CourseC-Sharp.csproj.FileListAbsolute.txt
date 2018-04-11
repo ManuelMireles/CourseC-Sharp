@@ -1,0 +1,17 @@
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\bin\Debug\CourseC-Sharp.exe.config
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\bin\Debug\CourseC-Sharp.exe
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\bin\Debug\CourseC-Sharp.pdb
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC-Sharp.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.FrmMain.resources
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.Properties.Resources.resources
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC-Sharp.csproj.GenerateResource.Cache
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC-Sharp.exe
+c:\users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC-Sharp.pdb
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.Cicles.FrmCicles.resources
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.Excercises.FrmConditionals.resources
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.POO.FrmBase.resources
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.Excercises.FrmArrays.resources
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.Excercises.FrmPOO.resources
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.FrmPolymorphism.resources
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\obj\Debug\CourseC_Sharp.Excercises.FrmDataBase.resources
+C:\Users\manuel\documents\visual studio 2015\Projects\CourseC-Sharp\CourseC-Sharp\bin\Debug\System.Data.SqlServerCe.dll
